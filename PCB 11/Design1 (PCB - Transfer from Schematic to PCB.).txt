@@ -1,0 +1,16 @@
+Transfer from Schematic to PCB.
+-------------------------------
+
+Report Written:     Friday, December 06, 2019
+Design Path:        C:\Users\60128\Desktop\PCB 11\Design1.pcb
+Design Title:       
+Created:            6/12/2019 4:19:45 PM
+Last Saved:         6/12/2019 4:20:04 PM
+Editing Time:       0 min
+Units:              thou (precision 0)
+
+Could not load component "Digital Ground" package "SPICE" into target design.
+Could not add "GND1" component "Digital Ground" package "SPICE" to target design.
+Could not add "GND2" component "Digital Ground" package "SPICE" to target design.
+
+End Of Report.

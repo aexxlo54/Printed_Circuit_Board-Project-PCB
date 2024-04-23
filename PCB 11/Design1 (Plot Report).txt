@@ -1,0 +1,238 @@
+Plot Report
+-----------
+
+Report Written:     Friday, December 06, 2019
+Design Path:        C:\Users\60128\Desktop\PCB 11\Design1.pcb
+Design Title:       
+Created:            6/12/2019 4:19:45 PM
+Last Saved:         6/12/2019 4:30:54 PM
+Editing Time:       11 min
+Units:              thou (precision 0)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 3.5 absolute in inches.
+    Zero suppression Leading
+
+
+PDF Settings
+============
+
+Combine Plots Yes
+Use Bookmarks Yes
+Component Details Yes
+Symbol Details Yes
+Link Net Names Yes
+View PDF Yes
+All Colors Black Yes
+Embed Fonts Yes
+
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\60128\Desktop\PCB 11\Design1.mop"
+
+
+Gerber Output
+=============
+
+C:\Users\60128\Desktop\PCB 11\Design1 - Top Documentation.gbr
+
+    Layers:
+    ---------------------
+    Top Documentation
+
+    D-Code Shape  (thou)
+    -----------------------
+    D12    Round 3.94
+    D28    Round 1.97
+
+Gerber Output
+=============
+
+C:\Users\60128\Desktop\PCB 11\Design1 - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 5.00
+    D12    Round 3.94
+    D22    Round 7.87
+    D25    Round 10.00
+
+PDF Output
+==========
+
+    Layer
+    ---------------------
+    Bottom Copper
+    Bottom Documentation
+    Bottom Silkscreen
+    Top Copper
+    Top Documentation
+    Top Silkscreen
+
+
+Gerber Output
+=============
+
+C:\Users\60128\Desktop\PCB 11\Design1 - Top Copper (Resist).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ---------------------------------
+    D17    Round 70.00
+    D76    Square 58.62
+    D77    Round 58.62
+    D78    Rectangle 65.00 X 70.00
+    D79    Rectangle 50.00 X 58.00
+    D80    Round 92.68
+
+Gerber Output
+=============
+
+C:\Users\60128\Desktop\PCB 11\Design1 - Top Copper (Paste).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ---------------------------------
+    D81    Rectangle 51.00 X 56.00
+    D82    Rectangle 36.00 X 44.00
+
+Gerber Output
+=============
+
+C:\Users\60128\Desktop\PCB 11\Design1 - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D13    Round 60.00
+    D16    Round 15.00
+    D21    Round 48.00
+    D29    Square 48.62
+    D72    Round 48.62
+    D75    Round 82.68
+
+Gerber Output
+=============
+
+C:\Users\60128\Desktop\PCB 11\Design1 - Bottom Copper (Resist).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D17    Round 70.00
+    D76    Square 58.62
+    D77    Round 58.62
+    D80    Round 92.68
+
+Gerber Output
+=============
+
+C:\Users\60128\Desktop\PCB 11\Design1 - Bottom Copper (Paste).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+
+NC Drill Output
+===============
+
+C:\Users\60128\Desktop\PCB 11\Design1 - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+
+    Tool  Size           Count   ID
+    --------------------------------------
+    T001  0.02400 inches 6     B
+    T002  0.03200 inches 4     E
+    T003  0.03287 inches 30    D
+    T004  0.03500 inches 2     A
+    T005  0.05512 inches 10    F
+    --------------------------------------
+    Total                52
+    --------------------------------------
+
+C:\Users\60128\Desktop\PCB 11\Design1 - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+
+    Tool  Size Count   ID
+    ----------------------------
+    ----------------------------
+    Total      0
+    ----------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\60128\Desktop\PCB 11\Design1 - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    35    Y      100  Round A
+    24    Y      100  Round B
+    33    Y      100  Round D
+    32    Y      100  Round E
+    55    Y      100  Round F
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 5.00
+    D20    Round 100.00
+
+End Of Report.

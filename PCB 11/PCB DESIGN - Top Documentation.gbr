@@ -1,0 +1,17 @@
+G04 EasyPC Gerber Version 21.0.3 Build 4286 *
+G04 #@! TF.Part,Single*
+G04 #@! TF.FileFunction,Other,PCB DESIGN - Top Documentation *
+G04 #@! TF.FilePolarity,Positive *
+%FSLAX35Y35*%
+%MOIN*%
+%ADD28C,0.00197*%
+X0Y0D02*
+D02*
+D28*
+X76833Y226234D02*
+X173667D01*
+Y34266*
+X76833*
+Y226234*
+X0Y0D02*
+M02*
